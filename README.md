@@ -30,7 +30,7 @@ yarn add react-native-leaflet-kit react-native-webview
 Wrap your map elements inside the `MapContainer` and add layers as needed.
 
 ```tsx
-import { MapContainer, TileLayer, Marker, Polyline } from '@/components/map-library';
+import { MapContainer, TileLayer, Marker, Polyline } from 'react-native-leaflet-kit';
 
 const MyMap = () => {
     return (
