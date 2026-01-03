@@ -1,6 +1,6 @@
 {
     "name": "react-native-leaflet-kit",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A professional, pluggable, and declarative Map library for React Native built on top of Leaflet, WebView, and OpenStreetMap tiles",
     "main": "dist/index.js",
     "module": "dist/index.js",

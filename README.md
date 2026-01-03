@@ -52,23 +52,6 @@ const MyMap = () => {
 };
 ```
 
-### 🏎️ Using the Metride Wrapper
-For the most streamlined experience, use the `MetrideMap` component which handles all boilerplate:
-
-```tsx
-import { MetrideMap } from '@/components/metro/MetrideMap';
-
-<MetrideMap 
-  markers={myStations}
-  paths={myRouteLines}
-  userMarker={currentUserLocation}
-  fitBounds={true}
-  isDark={true}
-/>
-```
-
----
-
 ---
 
 ## 🧩 Component Documentation
@@ -298,6 +281,7 @@ Defines a specific area or boundary.
   fillColor="rgba(0, 0, 255, 0.2)"
 />
 ```
+---
 
 ### 9. `<GeoJSON />`
 The standard for complex spatial data. Renders entire datasets (lines, points, polygons) from a single JSON.
