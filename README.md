@@ -290,9 +290,14 @@ Defines a specific area or boundary.
 | `fillColor` | `string` | Fill color. |
 
 **Example:**
+```tsx
+<Polygon 
+  id="danger-area"
+  positions={dangerAreaCoordinates}
+  color="blue"
+  fillColor="rgba(0, 0, 255, 0.2)"
+/>
 ```
-
----
 
 ### 9. `<GeoJSON />`
 The standard for complex spatial data. Renders entire datasets (lines, points, polygons) from a single JSON.
