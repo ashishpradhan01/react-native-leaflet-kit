@@ -1,5 +1,10 @@
 # React Native Leaflet Kit 🗺️
 
+[![npm version](https://img.shields.io/npm/v/react-native-leaflet-kit.svg)](https://www.npmjs.com/package/react-native-leaflet-kit)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-leaflet-kit.svg)](https://www.npmjs.com/package/react-native-leaflet-kit)
+[![license](https://img.shields.io/npm/l/react-native-leaflet-kit.svg)](https://github.com/ashishpradhan01/react-native-leaflet-kit/blob/main/LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+
 A professional, pluggable, and declarative Map library for React Native built on top of Leaflet, WebView, and OpenStreetMap tiles. Designed with a Compound Component pattern for maximum flexibility and performance.
 
 ## ✨ Features
